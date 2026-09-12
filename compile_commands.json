@@ -1,0 +1,158 @@
+[
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/CDC.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/CDC.cpp",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/CDC.cpp",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/CDC.cpp.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/HardwareSerial.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/HardwareSerial.cpp",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/HardwareSerial.cpp",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/HardwareSerial.cpp.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/HardwareSerial0.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/HardwareSerial0.cpp",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/HardwareSerial0.cpp",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/HardwareSerial0.cpp.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/HardwareSerial1.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/HardwareSerial1.cpp",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/HardwareSerial1.cpp",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/HardwareSerial1.cpp.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/HardwareSerial2.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/HardwareSerial2.cpp",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/HardwareSerial2.cpp",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/HardwareSerial2.cpp.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/HardwareSerial3.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/HardwareSerial3.cpp",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/HardwareSerial3.cpp",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/HardwareSerial3.cpp.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/IPAddress.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/IPAddress.cpp",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/IPAddress.cpp",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/IPAddress.cpp.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/PluggableUSB.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/PluggableUSB.cpp",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/PluggableUSB.cpp",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/PluggableUSB.cpp.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/Print.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/Print.cpp",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/Print.cpp",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/Print.cpp.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/Stream.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/Stream.cpp",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/Stream.cpp",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/Stream.cpp.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/Tone.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/Tone.cpp",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/Tone.cpp",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/Tone.cpp.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/USBCore.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/USBCore.cpp",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/USBCore.cpp",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/USBCore.cpp.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/WInterrupts.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/WInterrupts.c",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/WInterrupts.c",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/WInterrupts.c.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/WMath.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/WMath.cpp",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/WMath.cpp",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/WMath.cpp.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/WString.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/WString.cpp",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/WString.cpp",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/WString.cpp.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/abi.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/abi.cpp",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/abi.cpp",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/abi.cpp.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/hooks.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/hooks.c",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/hooks.c",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/hooks.c.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/main.cpp",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/main.cpp",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/main.cpp.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/new.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/new.cpp",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/new.cpp",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/new.cpp.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/wiring.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/wiring.c",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/wiring.c",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/wiring.c.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/wiring_analog.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/wiring_analog.c",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/wiring_analog.c",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/wiring_analog.c.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/wiring_digital.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/wiring_digital.c",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/wiring_digital.c",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/wiring_digital.c.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -x assembler-with-cpp -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 -c -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/wiring_pulse.S.o /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/wiring_pulse.S",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/wiring_pulse.S",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/wiring_pulse.S.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/wiring_pulse.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/wiring_pulse.c",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/wiring_pulse.c",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/wiring_pulse.c.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/lgt8f328p-LQFP48/FrameworkArduino/wiring_shift.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 /home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/wiring_shift.c",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f/wiring_shift.c",
+        "output": ".pio/build/lgt8f328p-LQFP48/FrameworkArduino/wiring_shift.c.o"
+    },
+    {
+        "command": "/home/socratez018/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/lgt8f328p-LQFP48/src/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=60200 -DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E -DF_CPU=32000000L -DF_OSC=32000000L -DCLOCK_SOURCE=1 -DARDUINO_ARCH_AVR -DARDUINO_ARCH_LGT -DARDUINO=10812 -Iinclude -Isrc -I/home/socratez018/.platformio/packages/framework-lgt8fx/cores/lgt8f -I/home/socratez018/.platformio/packages/framework-lgt8fx/variants/lgt8fx8p48 src/main.cpp",
+        "directory": "/home/socratez018/Documents/PlatformIO/Projects/SPWM_Inverter",
+        "file": "src/main.cpp",
+        "output": ".pio/build/lgt8f328p-LQFP48/src/main.cpp.o"
+    }
+]
